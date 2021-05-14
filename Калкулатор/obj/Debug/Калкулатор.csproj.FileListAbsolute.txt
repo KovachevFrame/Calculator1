@@ -1,0 +1,10 @@
+C:\Users\ekpho\source\repos\Калкулатор\bin\Debug\Калкулатор.exe.config
+C:\Users\ekpho\source\repos\Калкулатор\bin\Debug\Калкулатор.exe
+C:\Users\ekpho\source\repos\Калкулатор\bin\Debug\Калкулатор.pdb
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.csprojAssemblyReference.cache
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.Form1.resources
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.Properties.Resources.resources
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.csproj.GenerateResource.cache
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.csproj.CoreCompileInputs.cache
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.exe
+C:\Users\ekpho\source\repos\Калкулатор\obj\Debug\Калкулатор.pdb
